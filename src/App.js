@@ -5,6 +5,7 @@ import AboutUs from "./components/AboutUs";
 import Support from "./components/Support";
 import SupportDetails from "./components/SupportDetails";
 import Pricing from "./components/Pricing";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -15,6 +16,7 @@ const App = () => {
       <Support />
       <SupportDetails />
       <Pricing />
+      <Footer/>
     </div>
   );
 };
