@@ -1,4 +1,4 @@
-# Bank Landing Webstie
+# Cloud. Landing Webstie
 ### <a href="https://cloud-website-app.netlify.app/">Click here to see live website!</a>
 ### Table of contents
 * [General-info](#general-info)
