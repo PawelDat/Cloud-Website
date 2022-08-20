@@ -25,7 +25,8 @@ const Support = () => {
             Finding the right team
           </h3>
           <p className="py-4 text-3xl text-slate-300">
-          we will provide you with the best technical support through our specialized employees
+            we will provide you with the best technical support through our
+            specialized employees
           </p>
         </div>
 
@@ -35,7 +36,8 @@ const Support = () => {
               <PhoneIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]" />
               <h3 className="font-bold text-2xl my-6">Sales</h3>
               <p className="text-gray-600 text-xl">
-              Our sales support are always free to provide you the best Cloud options for you
+                Our sales support are always free to provide you the best Cloud
+                options for you
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">
@@ -49,7 +51,8 @@ const Support = () => {
               <SupportIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]" />
               <h3 className="font-bold text-2xl my-6">Technical Support</h3>
               <p className="text-gray-600 text-xl">
-              By purchasing our product we provide you with 24/7 technical support
+                By purchasing our product we provide you with 24/7 technical
+                support
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">
@@ -63,7 +66,8 @@ const Support = () => {
               <CheckIcon className="w-16 p-4 bg-indigo-600 text-white rounded-lg mt-[-4rem]" />
               <h3 className="font-bold text-2xl my-6">Free Trial</h3>
               <p className="text-gray-600 text-xl">
-              Feel Free to checkout our 14 days free trial to consider wich options suits you the best.
+                Feel Free to checkout our 14 days free trial to consider wich
+                options suits you the best.
               </p>
             </div>
             <div className="bg-slate-100 pl-8 py-4">
